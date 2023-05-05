@@ -8,7 +8,7 @@
       "recipes": [
         {
           "first_recipe_name": "Spicy Thai Basil Chicken",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "500g boneless chicken breast, sliced",
             "2 cups Thai basil leaves",
             "4 cloves garlic, minced",
@@ -20,7 +20,7 @@
         },
         {
           "second_recipe_name": "Prawn and Mango Salad",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "500g prawns, peeled and deveined",
             "2 ripe mangoes, peeled and sliced",
             "1 red onion, thinly sliced",
@@ -32,7 +32,7 @@
         },
         {
           "third_recipe_name": "Grilled Lemon Herb Fish",
-          "ingredients": [
+          "third_recipe_ingredients": [
             "4 fish fillets (such as tilapia or sea bass)",
             "1/4 cup olive oil",
             "2 tablespoons lemon juice",
@@ -57,7 +57,7 @@
       "recipes": [
         {
           "first_recipe_name": "Prawn Malai Curry",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "500g prawns, peeled and deveined",
             "2 cups coconut milk",
             "1 onion, finely chopped",
@@ -72,7 +72,7 @@
         },
         {
           "second_recipe_name": "Roshomalai",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "1 liter milk",
             "1/4 cup lemon juice",
             "1/4 cup water",
@@ -87,7 +87,7 @@
         },
         {
           "third_recipe_name": "Dhakai Beef Bhuna",
-          "ingredients": [
+          "third_recipe_ingredients": [
             "500g beef, cut into cubes",
             "1 cup thinly sliced onions",
             "1 tablespoon ginger paste",
@@ -115,7 +115,7 @@
       "recipes": [
         {
           "first_recipe_name": "Grilled Shrimp Skewers with Chermoula Sauce",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "1 pound large shrimp, peeled and deveined",
             "1/4 cup olive oil",
             "3 cloves garlic, minced",
@@ -131,7 +131,7 @@
         },
         {
           "second_recipe_name": "Smoked Salmon and Dill Potato Salad",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "1 pound baby potatoes, halved",
             "1/4 cup mayonnaise",
             "1/4 cup sour cream",
@@ -145,7 +145,7 @@
         },
         {
           "third_recipe_name": "Braised Beef Short Ribs with Red Wine Sauce",
-          "ingredients": [
+          "third_recipe_ingredients": [
             "4 beef short ribs",
             "1 tablespoon olive oil",
             "1 onion, chopped",
@@ -173,7 +173,7 @@
       "recipes": [
         {
           "first_recipe_name": "Shorshe Ilish (Mustard Hilsa)",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "1. 4 hilsa fish steaks",
             "2. 4 tablespoons mustard oil",
             "3. 4 green chilies, chopped",
@@ -187,7 +187,7 @@
         },
         {
           "second_recipe_name": "Bhuna Khichuri (Spiced Rice and Lentils)",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "1. 1 cup basmati rice",
             "2. 1 cup red lentils",
             "3. 1 onion, chopped",
@@ -207,7 +207,7 @@
         },
         {
           "third_recipe_name": "Braised Beef Short Ribs with Red Wine Sauce",
-          "ingredients": [
+          "third_recipe_ingredients": [
             "4 beef short ribs",
             "1 tablespoon olive oil",
             "1 onion, chopped",
@@ -242,7 +242,7 @@
         },
         {
           "second_recipe_name": "Bhorta",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "Eggplant",
             "Onion",
             "Garlic",
@@ -254,7 +254,7 @@
         },
         {
           "third_recipe_name": "Shorshe Ilish",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "Hilsa fish",
             "Mustard seeds",
             "Turmeric",
@@ -278,7 +278,7 @@
       "recipes": [
         {
           "first_recipe_name": "Chicken Bhuna",
-          "ingredients": [
+          "first_recipe_ingredients": [
             "Chicken",
             "Onions",
             "Tomatoes",
@@ -296,7 +296,7 @@
         },
         {
           "second_recipe_name": "Lamb Vindaloo",
-          "ingredients": [
+          "second_recipe_ingredients": [
             "Lamb",
             "Onions",
             "Garlic",
@@ -316,7 +316,7 @@
         },
         {
           "third_recipe_name": "Prawn Biryani",
-          "ingredients": [
+          "third_recipe_ingredients": [
             "Prawns",
             "Basmati Rice",
             "Onions",
