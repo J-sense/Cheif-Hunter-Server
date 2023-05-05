@@ -236,13 +236,13 @@
       "recipes": [
         {
           "first_recipe_name": "Pitha",
-          "ingredients": ["Rice flour", "Sugar", "Coconut", "Milk", "Cardamom"],
+          "first_recipe_ingredients": ["Rice flour", "Sugar", "Coconut", "Milk", "Cardamom"],
           "method": "1. Combine rice flour, sugar, and coconut. 2. Add milk gradually to form a smooth batter. 3. Add cardamom and mix well. 4. Heat a non-stick pan and drop spoonfuls of batter to make small pancakes. 5. Cook until golden brown on both sides. Serve hot.",
           "rating": 4.5
         },
         {
           "second_recipe_name": "Bhorta",
-          "first_recipe_ingredients": [
+          "second_recipe_ingredients": [
             "Eggplant",
             "Onion",
             "Garlic",
@@ -254,7 +254,7 @@
         },
         {
           "third_recipe_name": "Shorshe Ilish",
-          "second_recipe_ingredients": [
+          "third_recipe_ingredients": [
             "Hilsa fish",
             "Mustard seeds",
             "Turmeric",
